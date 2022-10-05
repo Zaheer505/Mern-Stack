@@ -1,5 +1,5 @@
 # Mern-Stack
 
 
-# Readme for this repo.
+# Don't forget to buy my courses on Udemy.com!
 
